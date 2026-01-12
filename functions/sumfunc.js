@@ -26,4 +26,4 @@ function sum(a, b, c= 8) {
 }
 
 result = sum(56, 6);
-console.log("The result of sum is: ",result);
+console.log("The result of the sum is: ",result);
