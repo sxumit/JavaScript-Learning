@@ -1,0 +1,18 @@
+// initialise a node project 
+// npm init 
+
+// after filling the details  a package.json file is created that has the details for your package 
+
+// now we will install the express.js package 
+// npm install  express --save
+
+
+// nodemon is a package that is installed globallly on my pc, i can use nodemon in any project 
+// npm install -g nodemon
+
+// now run the index file using nodemon index.js 
+// it allows realtime changes in the output 
+
+
+// delete node_modules folder because it is too big to push on github. run npm install to install 
+// all the pakages anytime
