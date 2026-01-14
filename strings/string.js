@@ -6,4 +6,8 @@ console.log(a[2])
 console.log(a[3])
 console.log(a[4])
 console.log(typeof(a)) // tells about the datatype of a 
-console.log(a.length) //this tells the total characters in the string. no use of bracket() after length
+console.log(a.length) //this tells the total characters in the string. no use of bracket() after
+// length because it is a property not function 
+
+console.log(a.toUpperCase())
+console.log(a.toLowerCase())
